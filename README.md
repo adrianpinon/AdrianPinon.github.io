@@ -13,7 +13,7 @@ for their own project or portfolio. It never ceases to amaze me how far I've com
 start my journey into the world and it terrifies me and excites all in the same time. 
 
 ![Demo]
-https://media.giphy.com/media/BEscAAgAXxLgm8vlAK/giphy.gif
+(https://media.giphy.com/media/BEscAAgAXxLgm8vlAK/giphy.gif)
 
 ## Credit
 
