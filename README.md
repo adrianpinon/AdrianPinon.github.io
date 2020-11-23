@@ -12,8 +12,7 @@ your abilities to work code. At its heart, it might give someone an idea of wher
 for their own project or portfolio. It never ceases to amaze me how far I've come. Of course, I've just 
 start my journey into the world and it terrifies me and excites all in the same time. 
 
-![Demo]
-(https://media.giphy.com/media/BEscAAgAXxLgm8vlAK/giphy.gif)
+![Demo](https://media.giphy.com/media/BEscAAgAXxLgm8vlAK/giphy.gif)
 
 ## Credit
 
